@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body id="hackerbreakfast-com">
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Hacker Breakfast</h1>
+          <p>Spokane's Weekly Nerd Meetup</p>
+          <hr>
+        </div>
+
+        {{ content }}
+
+        <hr>
+        <span class="credits left">site maintained by <a href="https://github.com/elasticdog/hackerbreakfast">elasticdog</a></span>
+        <span class="credits right">hosted on github pages &mdash; theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+      </section>
+
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+  </body>
+</html>
