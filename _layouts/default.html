@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="javascripts/respond.js"></script>
+    <script src="javascripts/texteffects.min.js"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -21,7 +22,7 @@
 
       <section>
         <div id="title">
-          <h1>Hacker Breakfast</h1>
+          <h1 class="text-effect">Hacker Breakfast</h1>
           <p>Spokane's Weekly Nerd Meetup</p>
           <hr>
         </div>
@@ -36,5 +37,8 @@
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
+    <script type="text/javascript">
+      $(".text-effect").textEffect({ fps: 60 })
+    </script>
   </body>
 </html>
