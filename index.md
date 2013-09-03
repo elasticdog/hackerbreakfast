@@ -30,3 +30,4 @@ Got a question or just want to chat? We're always around...
 
 * [@hackerbreakfast](https://twitter.com/hackerbreakfast) on Twitter
 * [#hackerbreakfast](http://webchat.freenode.net/?channels=%23hackerbreakfast) on freenode IRC
+* [/r/hackerbreakfast](http://www.reddit.com/r/hackerbreakfast) on Reddit
