@@ -801,8 +801,9 @@ section #title {
   padding: 0 0 5px 0;
 }
 section #titleWrap {
-  display: inline-block;
+/*  display: inline-block;
   width: 410px;
+  text-align: center;*/
 }
 section #title h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
