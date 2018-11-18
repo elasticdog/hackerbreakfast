@@ -28,6 +28,7 @@ Hacker Breakfast takes place at [Revel 77 Coffee](http://www.revel77coffee.com/)
 
 Got a question or just want to chat? We're always around...
 
+* [Hacker Breakfast Slack](https://hackerbreakfast-invite.herokuapp.com/) signup
 * [@hackerbreakfast](https://twitter.com/hackerbreakfast) on Twitter
 * [#hackerbreakfast](http://webchat.freenode.net/?channels=%23hackerbreakfast) on freenode IRC
 * [/r/hackerbreakfast](http://www.reddit.com/r/hackerbreakfast) on Reddit
