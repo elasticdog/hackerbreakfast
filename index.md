@@ -15,7 +15,7 @@ There is no official agenda and people come and go as they please, but most of u
 
 ### Location
 
-Hacker Breakfast takes place at [Revel 77 Coffee](http://www.revel77coffee.com/) on the South Hill.
+Hacker Breakfast takes place at [Revel 77 Coffee](https://www.revel77coffee.com/) on the South Hill.
 
 > 3223 E 57th Ave Suite K<br>
 > Spokane, WA  99223-6010
@@ -30,4 +30,4 @@ Got a question or just want to chat? We're always around...
 
 * [Hacker Breakfast Slack](https://hackerbreakfast-invite.herokuapp.com/) signup
 * [@hackerbreakfast](https://twitter.com/hackerbreakfast) on Twitter
-* [/r/hackerbreakfast](http://www.reddit.com/r/hackerbreakfast) on Reddit
+* [/r/hackerbreakfast](https://www.reddit.com/r/hackerbreakfast) on Reddit
